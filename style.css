@@ -1,0 +1,11 @@
+.blogs{
+background-color: aqua;
+border: 5px solid greenyellow;
+border-radius: 15px;
+margin: 25px 50px 10px 50px;
+}
+
+.author-name{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: crimson;
+}
